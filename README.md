@@ -20,5 +20,5 @@ A super simple todo list via windows command line
 Feel free to contribute
 
 ## Communication 💌
-[Website](https://www.pariya-tavangar.ir)
-[Github](https://github.com/Ptavangar)
+* [Website](https://www.pariya-tavangar.ir)
+* [Github](https://github.com/Ptavangar)
