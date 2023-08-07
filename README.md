@@ -1,4 +1,4 @@
-# Catcoach
+# Catcoach - Your CMD Todolist
 A super simple todo list via windows command line
 
 * [General info](#general-info)
