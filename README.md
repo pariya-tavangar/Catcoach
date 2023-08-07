@@ -19,6 +19,8 @@
 
 
 ## Feature ⚙
+* [PrettyTable]
+* Automatic cls
 
 
 ## Countribute 🤝
