@@ -16,7 +16,7 @@
 
 ## Feature ⚙
 ![data_t](data_t.png)
-* [PrettyTable]
+* PrettyTable
 * Automatic cls
 
 
