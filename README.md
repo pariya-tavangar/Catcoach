@@ -21,7 +21,7 @@
 ## Feature ⚙
 * [PrettyTable]
 * Automatic cls
-
+![data_t](data_t.png)
 
 ## Countribute 🤝
 Feel free to contribute
