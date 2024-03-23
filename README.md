@@ -8,7 +8,7 @@
 - [x] [Fixing adding system]()
 - [x] [Conflict in exit]()
 - [ ] [Fixing row number in del.row]()
-- [ ] [Adding status checking]()
+- [x] [Adding status checking]()
 - [x] [Importing AsciiArts]()
 - [ ] [Main Page sudden crash]()
 - [ ] [Working on gui]()
