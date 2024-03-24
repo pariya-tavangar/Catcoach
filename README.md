@@ -10,7 +10,7 @@
 - [ ] [Fixing row number in del.row]()
 - [x] [Adding status checking]()
 - [x] [Importing AsciiArts]()
-- [ ] [Main Page sudden crash]()
+- [x] [Main Page sudden crash]()
 - [ ] [Working on gui]()
 
 
